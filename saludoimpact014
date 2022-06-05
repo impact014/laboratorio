@@ -1,0 +1,12 @@
+/* Primera aplicacion en go goodjob impact014*/
+package main
+
+import (
+	"log"
+)
+func main() {
+	// funcion principal y unica solo saludaremos
+	println("Aplicacion en go de impact014 goodjob impact cloud 1 edicion")
+		println("Con esta practica hemos llegado al fin del curso.\n")
+		log.Println("Hasta pronto\n")
+}
